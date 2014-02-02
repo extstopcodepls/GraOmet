@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Users\Pawe³\Documents\Studia\Projekt Zespolowy\GraOmet\.metadata\.plugins\org.eclipse.jdt.core
+141756439.index
+518796389.index
+3597912206.index
+4149997320.index
+2043783121.index
+3843295151.index

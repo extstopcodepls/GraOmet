@@ -1,0 +1,6 @@
+1372667698894	Rename field 'isFirstNumberEntered'
+1372669551879	Extract method 'setNumber'
+1372669724580	Rename field 'isActionPerformed'
+1372669801115	Rename local variable 'numberToAdd'
+1372682753817	Rename field 'clearEverythingButton'
+1372684062052	Delete element
